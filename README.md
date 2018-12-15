@@ -5,8 +5,8 @@ ECE 445 Machine Learning Final Project
 Datasets:
 
 - EEG EYE State Dataset (https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State)
-  Goal: Using EEG data to classify whether the eyes are open or not
-  Problem Type: Classification
+-- Goal: Using EEG data to classify whether the eyes are open or not
+-- Problem Type: Classification
   Methods: k-Nearest Neighbors, SVM, Naive Bayes
   Other Methods: Classification Tree
 
