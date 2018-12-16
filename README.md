@@ -2,29 +2,6 @@
 
 ECE 445 Machine Learning Final Project
 
+See https://docs.google.com/document/d/1_Crb4UGo4hORpOEBKyzAQ36K-OoMFBS4_uEuED-dx4U/edit?usp=sharing
 
-Phase I: Datasets
-
-1)
-EEG EYE State Dataset (https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State)
-Goal: Using EEG data to classify whether the eyes are open or not
-Problem Type: Classification
-Methods: k-Nearest Neighbors, SVM, Naive Bayes
-Other possible methods: Classification Tree
-
-2)
-Air Quality Dataset (http://archive.ics.uci.edu/ml/datasets/air+quality)
-Goal: Predict temperature given air quality data
-Problem: Regression
-Methods: Least Squares, Ridge, Regression Tree
-
-3)
-Autism Screening Adult Dataset
-Goal: Classify for detection of autism spectrum disorder
-Problem: Classification
-Methods:  k-Nearest Neighbors, SVM, Naive Bayes
-Other Methods: Classification Tree
-
-Phase II: Jupyter notebook (solutions, comments,  markup analysis, discussion)
-
-Phase III: Individual reports
+for information relating to datasets and ML problems to solve
